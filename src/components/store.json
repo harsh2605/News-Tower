@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1059,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Dana Rubinstein, Grace Ashford and Jane Gottlieb",
+            "title": "Meet the Sheriff Who Wants to Put Andrew Cuomo Behind Bars",
+            "description": "Craig D. Apple Sr. is known among some fellow Democrats as the “Teflon sheriff” for his ability to persevere, even thrive, through trouble that might tarnish less adept politicians.",
+            "url": "https://www.nytimes.com/2021/12/07/nyregion/sheriffapplecuomoalbany.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/25/nyregion/00albanysheriffpromo/00albanysheriffpromofacebookJumbo.jpg",
+            "publishedAt": "20211207T10:00:22Z",
+            "content": "Raised in Bethlehem, a town just south of Albany, Sheriff Apple joined the department in 1987, just two years out of high school. He has been a nearconstant presence in the local press ever since re… [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple picks fight with Epic's 'friend,' as major App Store change looms  Reuters",
+            "description": "A courtordered <a href=\"https://www.reuters.com/article/appleepicgamesidTRNIKBN2G61IK\" target=\"_blank\">injunction</a> is set to bring major changes this Thursday to the Apple App Store: The tech giant will have to allow app developers to offer links withi…",
+            "url": "https://www.reuters.com/legal/litigation/applepicksfightwithepicsfriendmajorappstorechangelooms20211207/",
+            "urlToImage": "https://www.reuters.com/resizer/eDvUbcL5Tsras30oDEQzqxm4PnU=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/65MXOQXQ5JKMLCABZUXUZRFSU4.jpg",
+            "publishedAt": "20211207T00:42:00Z",
+            "content": "<ul><li>\r\nLaw firms</li><li>\r\nRelated documents</li></ul>\r\nThe company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we… [+6457 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Israel's digital wallets to expand as Google Pay launches  Reuters",
+            "description": "Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google Pay launched in Israel on Tuesday, with Israel's major banks and credit card companies saying they had signed agreements with Google to offer the new payme…",
+            "url": "https://www.reuters.com/technology/israelsdigitalwalletsexpandgooglepaylaunches20211207/",
+            "urlToImage": "https://www.reuters.com/resizer/uyjBBoS4_loDkaxBgysdS9V28tQ=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/YYRSXGUX5RPVNPUZOILYVFSMHE.jpg",
+            "publishedAt": "20211207T12:01:00Z",
+            "content": "JERUSALEM, Dec 7 (Reuters)  Alphabet Inc's (GOOGL.O) Google Pay launched in Israel on Tuesday, with Israel's major banks and credit card companies saying they had signed agreements with Google to of… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan Nov exports hit record, outlook good ahead of yearend  Reuters",
+            "description": "Taiwan's exports rose for a 17th straight month in November to a new high as its manufacturers gained from sustained demand for consumer electronics in the coming yearend shopping season and amid a global shortage of computer chips.",
+            "url": "https://www.reuters.com/markets/europe/taiwannovexportshitrecordoutlookgoodaheadyearend20211207/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reutersdefault.png?d=60",
+            "publishedAt": "20211207T08:49:00Z",
+            "content": "TAIPEI, Dec 7 (Reuters)  Taiwan's exports rose for a 17th straight month in November to a new high as its manufacturers gained from sustained demand for consumer electronics in the coming yearend s… [+2193 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EXCLUSIVE EU antitrust regulator seeks input on Microsoft's $16 bln Nuance deal  Reuters",
+            "description": "EU's antitrust regulator is taking a deeper look into Microsoft Corp's <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> $16 billion deal for transcription technology company Nuance Communications Inc <a href=\"https://www.reuters…",
+            "url": "https://www.reuters.com/markets/deals/exclusiveeuantitrustregulatorseeksinputmicrosofts16blnnuancedeal20211207/",
+            "urlToImage": "https://www.reuters.com/resizer/vbFrMl5RRemKTarwVY3G9Ovy3U=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/QV7AHZSTKJO47HTDIIYXAZOHOI.jpg",
+            "publishedAt": "20211207T08:02:00Z",
+            "content": "Dec 7 (Reuters)  EU's antitrust regulator is taking a deeper look into Microsoft Corp's (MSFT.O) $16 billion deal for transcription technology company Nuance Communications Inc (NUAN.O), asking cust… [+3262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Harish Jonnalagadda",
+            "title": "Apple scores a big win in China with the iPhone 13, but it won't last",
+            "description": "Apple is doing all the right things in China, but its Android rivals will catch up soon.\n\n\n\nSamsung and Apple dominate phone sales charts in North America, but that's not the case in other global markets. For instance, Samsung has less than a 1% market share …",
+            "url": "https://www.androidcentral.com/chinaappleiphoneandroid",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/iphone13promax25.jpg",
+            "publishedAt": "20211207T13:00:02Z",
+            "content": "Source: Apoorva Bhardwaj / Android Central\r\nSamsung and Apple dominate phone sales charts in North America, but that's not the case in other global markets. For instance, Samsung has less than a 1% m… [+6049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samuel Gibbs Consumer technology editor",
+            "title": "Best midrange wifi 6 mesh systems to solve broadband dead zones",
+            "description": "Replacement routers put speedy wifi in every corner of the home for reliable work, video calls and filmsWith wifi more important than ever for keeping your home working and your online entertainment up and running, it may be time to banish those irritating “n…",
+            "url": "https://amp.theguardian.com/technology/2021/dec/07/bestmidrangewifi6meshsystemstosolvebroadbanddeadzones",
+            "urlToImage": "https://i.guim.co.uk/img/media/1b5a081545a54e656c89db07092b4a99d92fd86b/1_0_4999_3000/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=729453783e463ca1b0f084e19b0284ec",
+            "publishedAt": "20211207T07:00:20Z",
+            "content": "With wifi more important than ever for keeping your home working and your online entertainment up and running, it may be time to banish those irritating notspots and make your broadband work everywh… [+7987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Still Hasn't Fixed Siri Issue That Nixed Call, Email, and Voicemail Features Used by Low Vision and Blind Users",
+            "description": "With the launch of iOS 15, Apple changed Siri functionality and removed features that were heavily relied on by low vision and blind iPhone users. ‌Siri‌ commands that provide details on phone calls, voice mails, and sending emails are no longer working, and …",
+            "url": "https://www.macrumors.com/2021/12/06/applenosirifixlowvisionfeatures/",
+            "urlToImage": "https://images.macrumors.com/t/b1axCKFufMVyzxfb0pGRITDi0w=/1600x/articlenew/2021/07/siriglow.png",
+            "publishedAt": "20211207T00:23:20Z",
+            "content": "With the launch of iOS 15, Apple changed Siri functionality and removed features that were heavily relied on by low vision and blind iPhone users. ‌Siri‌ commands that provide details on phone calls,… [+3429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Los nuevos MacBook Pro no reconocen correctamente algunas tarjetas SD",
+            "description": "Una de las mejores características de los nuevos portátiles de Apple, se ha convertido en el principal problema de muchos usuarios. Según una publicación en los foros de MacRumors, algunas personas están experimentando fallos a la hora de utilizar el puerto p…",
+            "url": "https://hipertextual.com/2021/12/losnuevosmacbookpronoreconocencorrectamentealgunastarjetassd",
+            "urlToImage": "https://hipertextual.com/wpcontent/uploads/2021/11/DSC04172scaled.jpg",
+            "publishedAt": "20211207T10:58:22Z",
+            "content": "Una de las mejores características de los nuevos portátiles de Apple, se ha convertido en el principal problema de muchos usuarios. Según una publicación en los foros de MacRumors, algunas personas e… [+2122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Una mujer asegura que unos hackers buscaron ‘nudes’ en su móvil tras enviarlo al servicio técnico de Google",
+            "description": "\"Sí, no envíes tu móvil de Google para una reparación/reemplazo en garantía\". Así iniciaba Jacke McGoniual, diseñadora de juegos, un hilo en Twitter tras descubrir que alguien del servicio de la compañía había accedido a su Google Pixel 5a con el objetivo de …",
+            "url": "https://hipertextual.com/2021/12/unamujeraseguraqueunoshackersbuscaronnudesensumoviltrasenviarloalserviciotecnicodegoogle",
+            "urlToImage": "https://hipertextual.com/wpcontent/uploads/2021/08/GooglePixel5a01.jpg",
+            "publishedAt": "20211207T12:47:06Z",
+            "content": "\"Sí, no envíes tu móvil de Google para una reparación/reemplazo en garantía\". Así iniciaba Jacke McGoniual, diseñadora de juegos, un hilo en Twitter tras descubrir que alguien del servicio de la comp… [+3125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Life360, la empresa que ha comprado Tile, vende la ubicación de niños y adultos a otras compañías",
+            "description": "Life360 está vendiendo la ubicación de millones de usuarios que utilizan sus servicios, según una investigación de The Markup. La aplicación, que está disponible para iOS y Android, se presenta como una plataforma de localización para familias. Permite, en co…",
+            "url": "https://hipertextual.com/2021/12/life360laempresaquehacompradotilevendelaubicaciondeninosyadultosaotrascompanias",
+            "urlToImage": "https://hipertextual.com/wpcontent/uploads/2015/01/IMG_5339.jpg",
+            "publishedAt": "20211207T10:03:27Z",
+            "content": "Life360 está vendiendo la ubicación de millones de usuarios que utilizan sus servicios, según una investigación de The Markup. La aplicación, que está disponible para iOS y Android, se presenta como … [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "José María López",
+            "title": "Cómo descargar música gratis para vídeos de TikTok",
+            "description": "TikTok destaca por sus vídeos cortos. Y aunque los hay de varios tipos, en su mayoría los vídeos de TikTok son musicales donde alguien baila o canta al ritmo de canciones populares o propias. Si quieres crear tus propios vídeos musicales para esta red social,…",
+            "url": "https://hipertextual.com/2021/12/musicagratisvideostiktok",
+            "urlToImage": "https://i0.wp.com/hipertextual.com/wpcontent/uploads/2021/03/tiktokapple1scaled.jpg?fit=2560%2C1569&ssl=1",
+            "publishedAt": "20211207T07:01:00Z",
+            "content": "TikTok destaca por sus vídeos cortos. Y aunque los hay de varios tipos, en su mayoría los vídeos de TikTok son musicales donde alguien baila o canta al ritmo de canciones populares o propias. Si quie… [+4813 chars]"
+        },
+        {
+            "source": {
+                "id": "thenextweb",
+                "name": "The Next Web"
+            },
+            "author": "Cate Lawrence",
+            "title": "Android you can start my car: BMW’s new connected car capabilities",
+            "description": "Earlier this month, we saw Android issue an important update. The update enables Android users to use their mobile to lock, unlock, and even start a compatible car. The most interesting factor is the use of Ultra Wideband technology.  In reality, we’ve been a…",
+            "url": "https://thenextweb.com/news/androidconnectedcarthankstoultrawidebandtechnology",
+            "urlToImage": "https://imgcdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwpcontent%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1p90446290lowres_1.jpeg&signature=767c280ab7545f55c2d82f0f756109ae",
+            "publishedAt": "20211207T13:49:58Z",
+            "content": "Earlier this month, we saw Android issue an important update. The update enables Android users to use their mobile to lock, unlock, and even start a compatible car. The most interesting factor is the… [+3082 chars]"
+        },
+        {
+            "source": {
+                "id": "thenextweb",
+                "name": "The Next Web"
+            },
+            "author": "The Markup",
+            "title": "The popular family safety app Life360 is selling precise location data on its tens of millions of users",
+            "description": "By: Jon Keegan and Alfred Ng Life360, a popular family safety app used by 33 million people worldwide, has been marketed as a great way for parents to track their children’s movements using their cellphones. The Markup has learned, however, that the app is se…",
+            "url": "https://thenextweb.com/news/familysafetyapplife360sellinglocationdatamillionsuserssyndication",
+            "urlToImage": "https://imgcdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwpcontent%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FTheMarkupLife360locationdataapp.jpg&signature=7ebb1254d777893317479ff4788cf86c",
+            "publishedAt": "20211207T04:37:19Z",
+            "content": "By: Jon Keegan and Alfred Ng\r\nLife360, a popular family safety app used by 33 million people worldwide, has been marketed as a great way for parents to track their childrens movements using their cel… [+20531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mechelle Voepel",
+            "title": "Who are the top candidates for New York Liberty, Phoenix Mercury coaching jobs?",
+            "description": "Several former WNBA players turned NBA assistants  and a current WNBA star with New York ties  are among the potential candidates.",
+            "url": "https://www.espn.com/wnba/story/_/id/32806315/wnbacoachingcandidatesthenextcoachnewyorklibertyphoenixmercury",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1206%2Fr947531_1296x729_16%2D9.jpg",
+            "publishedAt": "20211207T05:44:18Z",
+            "content": "A very busy Monday in the WNBA offseason ended with two head coaching vacancies. First came the news that Walt Hopkins was out as the New York Liberty's head coach after two seasons. A few hours late… [+5551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Pablo Rodríguez",
+            "title": "Life360, la empresa que compró Tile, lleva meses vendiendo los datos de ubicación de sus 33 millones de niños y sus familias",
+            "description": "La aplicación de seguridad familiar Life365, que comparte la ubicación de otros dispositivos en tiempo real y es usada por muchos padres para saber dónde están sus hijos, ha estado vendiendo millones de datos de localización de sus usuarios en los últimos año…",
+            "url": "https://www.xataka.com/empresasyeconomia/life360empresaquecomprotilellevamesesvendiendodatosubicacionsus33millonesninossusfamilias",
+            "urlToImage": "https://i.blogs.es/e1ef88/pokemon_pokemon_go_phone_game_internet_friends_mobile_cellphone562059/840_560.jpg",
+            "publishedAt": "20211207T11:31:22Z",
+            "content": "La aplicación de seguridad familiar Life365, que comparte la ubicación de otros dispositivos en tiempo real y es usada por muchos padres para saber dónde están sus hijos, ha estado vendiendo millones… [+3082 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Joe Skrebels",
+            "title": "Game Developer Accuses RealLife Weapons Manufacturer of Stealing Its Gun Design... Twice",
+            "description": "Game developer Ward B has accused gun manufacturer Kalashnikov Concern of stealing its design for a fictional weapon, and turning it into a reallife shotgun. In a bizarre twist, the alleged stolen design has now been used inside an entirely separate game.",
+            "url": "https://www.ign.com/articles/stolengunkalashnikovoceanicmp155ultimawardb",
+            "urlToImage": "https://assetsprd.ignimgs.com/2021/12/02/stolengundesignblogroll1638464164697.jpg?width=1280",
+            "publishedAt": "20211207T12:00:00Z",
+            "content": "The developers at indie studio Ward B really like designing fictional guns. The small team has been posting highly detailed weapon designs for its indevelopment game, Oceanic, since 2019. Crucial to… [+21790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Monica J. White",
+            "title": "Apple will release five new Macs in 2022, but no one expected this MacBook Pro",
+            "description": "Fans of Apple have a lot to look forward to in 2022. The company is planning to release five new Macs, including a surprising entrylevel addition.",
+            "url": "https://www.digitaltrends.com/computing/appletoreleasefivenewmacsin2022entrylevelincluded/",
+            "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/apple_macbookpro_1416inch_10182021copy.jpg",
+            "publishedAt": "20211207T00:55:16Z",
+            "content": "Apple is planning to release five new Macs in 2022, including a new entrylevel version of the MacBook Pro.\r\nThe full list of upcoming Apple releases also includes a highend iMac, a new Mac Mini, an… [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessbrief.xyz"
+            },
+            "author": "Mahmoud",
+            "title": "SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign",
+            "description": "Who would’ve thought that showing users their listening habits would be one of Spotify’s most successful marketing campaigns? Last Wednesday, #SpotifyWrapped was trending all over social media. Spotify which usually hovers at around the 15th position in the A…",
+            "url": "https://www.businessbrief.xyz/p/spotifywrappedhowspotifyturned",
+            "urlToImage": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeere05bbc84baa3437e9518adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcede358c1af0404e805963fd6b4cdcb1_980x506.jpeg",
+            "publishedAt": "20211207T01:07:08Z",
+            "content": "Who wouldve thought that showing users their listening habits would be one of Spotifys most successful marketing campaigns?\r\nLast Wednesday, #SpotifyWrapped was trending all over social media. Spotif… [+2510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "歴代AirPodsの中身をCTスキャンでよく見てわかる進化の軌跡",
+            "description": "Appleは2016年にワイヤレスイヤフォン「AirPods」を発売して以降、さまざまな改良を施しています。そんなAirPodsの歴代製品をCTスキャンで見て、改良点を探った様子が公開されています。続きを読む...",
+            "url": "https://gigazine.net/news/20211207scanoftheairpods/",
+            "urlToImage": "https://i.gzn.jp/img/2021/12/07/scanoftheairpods/00.png",
+            "publishedAt": "20211207T03:05:00Z",
+            "content": "Apple2016AirPodsAirPodsCT\r\nScan of the Month  AirPods Evolutionhttps://www.scanofthemonth.com/\r\n1AirPods20161213AirPods\r\n1AirPodsCT\r\nAirPods\r\n2.1mm×1.2mm\r\nAirPods Pro20191030AirPods Pro202011000\r\nAp… [+69 chars]"
+        }
+    ]
+}
