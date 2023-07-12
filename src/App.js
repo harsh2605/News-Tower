@@ -11,7 +11,7 @@ import {
   Link
 } from "react-router-dom";
 export default class App extends Component {
-  PageSize=6;
+  PageSize = 6;
   render() {
     return (
 

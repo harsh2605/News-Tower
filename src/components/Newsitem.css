@@ -4,5 +4,9 @@
 }
 .made{
     color: rgb(141, 28, 8);
-  
+    font-size: 15px;
+}
+.card{
+    background-color: black;
+    color: white;
 }
